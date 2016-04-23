@@ -4,3 +4,6 @@ Denmark
 Kenya
 USA
 Ireland
+Canada
+Japan
+Poland
