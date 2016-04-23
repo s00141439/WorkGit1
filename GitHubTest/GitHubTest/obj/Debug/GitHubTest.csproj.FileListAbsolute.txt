@@ -1,2 +1,6 @@
 E:\Niall\College\GitHub\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+<<<<<<< HEAD
 E:\Niall\College\GitHub\VisualStudio\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+=======
+C:\Users\Dominic\Desktop\Niall_Git\WorkGit1\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+>>>>>>> de401d6da4dbce853257e0648e74bdc66dd77df1
